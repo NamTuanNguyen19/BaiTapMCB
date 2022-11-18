@@ -1,0 +1,10 @@
+body {
+  background-color:rgba(1, 1, 1, 0.86);
+}
+
+.image {
+  height: 120px;
+  width: 120px;
+  margin-top: 50px;
+}
+
